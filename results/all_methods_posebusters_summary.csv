@@ -1,0 +1,4 @@
+Method,Passed,Total,Pass Rate (%)
+drugflow,83,99,83.84
+pocket2mol,96,100,96.0
+targetdiff,61,100,61.0

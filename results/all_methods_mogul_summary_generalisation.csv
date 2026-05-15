@@ -1,0 +1,4 @@
+Method,Bond Lengths (mean unusual),Bond Angles (mean unusual),Torsions (mean unusual),Rings (mean unusual)
+drugflow,0.4057,0.3821,0.3721,0.0308
+pocket2mol,0.6407,0.5473,0.5202,0.0792
+targetdiff,0.4837,0.4981,0.52,0.1071
